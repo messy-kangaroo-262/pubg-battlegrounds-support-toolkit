@@ -1,0 +1,22 @@
+{
+  "name": "pubg-battlegrounds-support-toolkit",
+  "displayName": "PUBG Battlegrounds Support Toolkit",
+  "programType": "support-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Support notes",
+    "Session records",
+    "Configuration history"
+  ],
+  "topics": [
+    "pubg-battlegrounds-support-toolkit",
+    "pubg-battlegrounds-tools",
+    "pubg-battlegrounds-menu",
+    "pubg-battlegrounds-settings",
+    "pubg-battlegrounds-configs",
+    "pubg-battlegrounds-support-notes",
+    "pubg-battlegrounds-session-records"
+  ]
+}
